@@ -52,11 +52,6 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/my-ai" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
-                    MY-ai
-                  </Link>
-                </li>
-                <li>
                   <Link href="/" className="block px-4 py-2 hover:bg-gray-100 dark:hover:bg-gray-600 dark:hover:text-white">
                     Home
                   </Link>
